@@ -1,6 +1,6 @@
 .data
 	msg1: .asciiz "\nDigite um valor inteiro: "
-	msg2: .asciiz"\nO valor final � de "
+	msg2: .asciiz"\nO valor final e igual a "
 
 .text
 main:
