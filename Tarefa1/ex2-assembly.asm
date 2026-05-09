@@ -1,4 +1,4 @@
-.data
+.data 
 msg1: .asciiz "\nDigite o numero de camisetas pequenas: "
 msg2: .asciiz "\nDigite o numero de camisetas medias: "
 msg3: .asciiz "\nDigite o numero de camisetas grandes: "
