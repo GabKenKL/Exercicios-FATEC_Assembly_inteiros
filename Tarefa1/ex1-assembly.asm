@@ -1,7 +1,7 @@
 .data
 msg1: .asciiz "\nDigite a largura: "
 msg2: .asciiz "\nDigite o comprimento: "
-msg3: .asciiz "A área é de "
+msg3: .asciiz "A Ã¡rea Ã© de "
 .text
 main:
 
