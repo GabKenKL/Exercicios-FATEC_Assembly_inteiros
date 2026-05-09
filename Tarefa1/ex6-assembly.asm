@@ -1,4 +1,4 @@
-.data
+.data 
 msg1: .asciiz"\nDigite o valor A: "
 msg2: .asciiz"\nDigite o valor B: "
 msg3: .asciiz"\nO valor da variavel C: "
