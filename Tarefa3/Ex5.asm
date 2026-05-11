@@ -1,5 +1,5 @@
 .data
-	msg1: .asciiz "\nDigite os coeficientes da equa��o do segundo grau: "
+	msg1: .asciiz "\nDigite os coeficientes da equacao do segundo grau: "
 	msg2: .asciiz "\nA: "
 	msg3: .asciiz "\nB: "
 	msg4: .asciiz "\nC: "
