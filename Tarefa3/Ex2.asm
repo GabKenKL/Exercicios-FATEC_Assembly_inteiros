@@ -1,7 +1,7 @@
 .data
 	msg1: .asciiz "\nDigite o valor do registrador $t0: "
 	msg2: .asciiz "\nDigite o valor do registrador $t1: "
-	msg5: .asciiz "\nDepois da mudan�a:"
+	msg5: .asciiz "\nDepois da mudanca:"
 	msg3: .asciiz "\n$t0 = "
 	msg4: .asciiz "\n$t1 = "
 	
